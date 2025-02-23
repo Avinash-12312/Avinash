@@ -1,2 +1,4 @@
 # Avinash
-This is a my first Git repository. Author: Avinash kumar
+This is a my first Git Repository.
+<br>
+Author-Avinash kumar
